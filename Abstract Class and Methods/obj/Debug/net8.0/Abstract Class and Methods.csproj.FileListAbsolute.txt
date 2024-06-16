@@ -1,0 +1,14 @@
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\bin\Debug\net8.0\Abstract Class and Methods.exe
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\bin\Debug\net8.0\Abstract Class and Methods.deps.json
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\bin\Debug\net8.0\Abstract Class and Methods.runtimeconfig.json
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\bin\Debug\net8.0\Abstract Class and Methods.dll
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\bin\Debug\net8.0\Abstract Class and Methods.pdb
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\Abstract Class and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\Abstract Class and Methods.AssemblyInfoInputs.cache
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\Abstract Class and Methods.AssemblyInfo.cs
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\Abstract Class and Methods.csproj.CoreCompileInputs.cache
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\Abstract Class and Methods.dll
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\refint\Abstract Class and Methods.dll
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\Abstract Class and Methods.pdb
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\Abstract Class and Methods.genruntimeconfig.cache
+C:\Users\Paps\source\repos\dcit318-assignment-10964427\Abstract Class and Methods\obj\Debug\net8.0\ref\Abstract Class and Methods.dll
